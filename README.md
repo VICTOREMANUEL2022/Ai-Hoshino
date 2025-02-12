@@ -1,4 +1,4 @@
-<h1 align="center">【 ✯ Ai Hoshino - MD ✰ 】</p>
+<h1 align="center">【 ✯ Ai victor MD ✰ 】</p>
 <p>
         <img src= "https://i.ibb.co/C5DNBRH/file.jpg">
     </p>
@@ -41,7 +41,7 @@
 
 - Si la Bot tiene algún contactame ฅ^•ﻌ•^ฅ
 
-* <a href="https://wa.me/5218261000681"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://wa.me/59896753932"><img alt="WhatsApp" src="https://img.victor.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---------
 
@@ -50,13 +50,13 @@
 
 - Si quieres probar la Bot antes de instalar
 
-* <a href="https://chat.whatsapp.com/CqdWTXmS702JD31SQzr0Ph"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://https://wa.me/qr/JP4HDLMYLCY7O1"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---------
 
 ## Repo Stats 🔭
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=StarlightsTeam&repo=Ai-Hoshino&theme=chartreuse-dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=StarlightsTeam&repo=Ai-victor-bot=chartreuse-dark)
 
 ---------
 
@@ -67,8 +67,8 @@
 
 ---------
 <div align="center">
-  <h1 align="center">Editor y Propietario de la Bot</h1>
+  <h1 align="center">Editor y Propietario Víctor de la Bot</h1>
 
 <a href="https://github.com/AikerDev"><img src="https://github.com/AikerDev.png" width="300" height="300" alt="おDaniel"/></a>
 
-`© Ai Hoshino - MD / Starlights Team _ By おDaniel`
+`©Ai Víctor bot propietario- MD /Víctor bot`
