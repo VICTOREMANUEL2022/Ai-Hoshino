@@ -34,6 +34,9 @@
 - [x] Juego RPG
 - [x] Descarga de música y video de YT
 - [ ] Otros
+  este es el número principal del bot 
+  //wa.me/59896753932
+
 
 ---------
 
@@ -50,7 +53,7 @@
 
 - Si quieres probar la Bot antes de instalar
 
-* <a href="https://https://chat.whatsapp.com/Heo2MeCb7P02ocXFhtFQDP"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://https://https://chat.whatsapp.com/Heo2MeCb7P02ocXFhtFQDPP"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---------
 
