@@ -1,4 +1,4 @@
-<h1 align="center">【 ✯ Ai Hoshino - MD ✰ 】</p>
+<h1 align="center">【 ✯ Ai Soy la nueva GatabotLite-MD 2026 ✰ 】</p>
 <p>
         <img src= "https://i.ibb.co/C5DNBRH/file.jpg">
     </p>
@@ -41,7 +41,7 @@
 
 - Si la Bot tiene algún contactame ฅ^•ﻌ•^ฅ
 
-* <a href="https://wa.me/5218261000681"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://wa.me/59894243071"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---------
 
@@ -71,4 +71,4 @@
 
 <a href="https://github.com/IrokzDal"><img src="https://github.com/IrokzDal.png" width="300" height="300" alt="Irokz Dal ダーク"/></a>
 
-`© Ai Hoshino - MD / Starlights Team _ By Irokz Dal ダーク`
+`© Ai Soy la nueva GatabotLite-MD 2026 Team _ Soy la nueva GatabotLite-MD 2026
