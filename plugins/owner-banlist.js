@@ -17,4 +17,4 @@ handler.help = ['banlist']
 handler.tags = ['owner']
 handler.command = /^banlist(ned)?|ban(ned)?list|daftarban(ned)?$/i
 handler.rowner = true
-export default handler
+export default handler 
